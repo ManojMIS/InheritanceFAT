@@ -1,3 +1,6 @@
+
+mvn archetype:generate -DgroupId=com.example -DartifactId=evenodd-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
 pipeline {
     agent any
 
